@@ -1,0 +1,11 @@
+
+*.pdb
+*.nupkg
+*.dll
+*.xml
+*.xsd
+*.pri
+*.cache
+*.exe
+*.txt
+*.txt
